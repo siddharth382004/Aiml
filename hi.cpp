@@ -546,3 +546,5 @@ struct Engine {
     void uploadDiskUBO() {
         // disk
         float r1 = SagA.r_s * 2.2f;    // inner radius just outside the event horizon
+    }
+}
